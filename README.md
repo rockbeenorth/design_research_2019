@@ -4,4 +4,4 @@ Back in Fall 2019 a small research team of product designers and developers cond
 
 This repository contains research results, a report, written in Russian.
 
-
+[fig01]: images/fig_01.svg "Votes distribution"
