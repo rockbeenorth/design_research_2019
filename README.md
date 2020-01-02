@@ -4,6 +4,4 @@ Back in Fall 2019 a small research team of product designers and developers cond
 
 This repository contains research results, a report, written in Russian.
 
-![Fig. 01][fig01]
-
-[fig01]: https://github.com/rockbeenorth/design_research_2019/tree/master/images/fig_01.svg?sanitize=true "Fig. 01"
+![Alt Fig. 01](https://raw.githubusercontent.com/rockbeenorth/design_research_2019/master/images/fig_01.svg?sanitize=true)
