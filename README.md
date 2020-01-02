@@ -6,4 +6,4 @@ This repository contains research results, a report, written in Russian.
 
 ![Fig. 01][fig01]
 
-[fig01]: https://github.com/rockbeenorth/design_research_2019/tree/master/images/fig_01.svg "Fig. 01"
+[fig01]: https://github.com/rockbeenorth/design_research_2019/tree/master/images/fig_01.svg?sanitize=true "Fig. 01"
