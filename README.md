@@ -122,62 +122,62 @@
 
 ## Датасет
 
-**Обезличенные** данные в виде цифр и статистики публикуются для всех желающих. Будет здорово, если найдутся желающие перепроверить наши вычисления.
+**Обезличенные** данные в виде цифр и статистики публикуются для всех желающих.
 
-В некоторых ситуациях требуются пояснения.
+Будет здорово, если найдутся желающие перепроверить наши вычисления.
 
-1. «Спам»: количество голосов и откликов отличается. Если эксперт в сердцах отправил отклик в спам, а остальные эксперты проставили либо "да" либо "нет", то оценка преобразуется в "нет".  В абсолютный спам отправляются отклики, которые отмечены всеми экспертами как спам.
+1. «Спам»: количество голосов и откликов отличается. Если эксперт в сердцах отправил отклик в спам, а остальные эксперты проставили либо «да» либо «нет», то оценка преобразуется в «нет».  В абсолютный спам отправляются отклики, которые отмечены всеми экспертами как спам.
 1. Все эксперты названы цветами вместо реальных имён. Я считаю что не так важно кто именно как голосовал: в реальной ситуации при найме вы скорее всего никогда не узнаете, как кто именно в компании высказался на самом деле за ваш отклик.
 
-### [expert_ids.csv](https://github.com/rockbeenorth/design_research_2019/blob/master/public_data/expert_ids.csv)
+### Эксперты, [expert_ids.csv](https://github.com/rockbeenorth/design_research_2019/blob/master/public_data/expert_ids.csv)
 
-- `expert_id`: порядковый номер записи эксперта в базе;
+- `expert_id`: уникальный идентификатор эксперта;
 - `nickname`: псевдоним эксперта;
 - `gender`: пол эксперта (`male`: мужской, `female`: женский).
 
-### [experts_stats.csv](https://github.com/rockbeenorth/design_research_2019/blob/master/public_data/experts_stats.csv)
+### Статистика по экспертам, [experts_stats.csv](https://github.com/rockbeenorth/design_research_2019/blob/master/public_data/experts_stats.csv)
 
-- `expert_id`: порядковый номер записи эксперта в базе;
+- `expert_id`: уникальный идентификатор эксперта;
 - `nickname`: псевдоним эксперта;
 - `gender`: пол эксперта (`male`: мужской, `female`: женский);
-- `spams`: 
-- `nays`: 
-- `yays`: 
-- `votes_sum`:
-- `negative`:
-- `positive`:
-- `negative_overlap`:
-- `spam_time`:
-- `nay_time`:
-- `yay_time`:
+- `spams`: количество откликов отмеченных как «спам»
+- `nays`: количество откликов отмеченных как «нет»
+- `yays`:  количество откликов отмеченных как «да»
+- `votes_sum`: сумма всех голосов
+- `negative`: сумма негативных голосов («нет» + «спам»)
+- `positive`:  Zh_review
+- `negative_overlap`:  Zh_review
+- `spam_time`:  среднее время потраченное на оценку «спам»
+- `nay_time`:  среднее время потраченное на оценку «нет»
+- `yay_time`:  среднее время потраченное на оценку «да»
 
-### [responses_stats.csv](https://github.com/rockbeenorth/design_research_2019/blob/master/public_data/responses_stats.csv)
+### Статистика по откликам, [responses_stats.csv](https://github.com/rockbeenorth/design_research_2019/blob/master/public_data/responses_stats.csv)
 
-- `response_id`:
-- `group`:
-- `spams`:
-- `nays`:
-- `yays`:
-- `votes_sum`:
-- `score`:
-- `mean_time_sec`:
-- `word_count`:
-- `need_reply`:
-- `updated`:
+- `response_id`: уникальный идентификатор отклика;
+- `group`: в какой группе оказался отклик;
+- `spams`: количество голосов «спам» (сумма оценок всех экспертов);
+- `nays`: количество голосов «нет» (сумма оценок всех экспертов);
+- `yays`:  количество голосов «да» (сумма оценок всех экспертов);
+- `votes_sum`: количество голосов (оценок) отклика;
+- `score`: рейтинг;
+- `mean_time_sec`: среднее время, затраченное экспертами на решение по отклику;
+- `word_count`: приблизительное количество слов в отклике (адреса ссылок включены, знаки препинания исключены);
+- `need_reply`:  `True` если пользователь отметил что ищет работу, `False` если пользователь участвовал из любопытства или забыл выбрать опцию;
+- `updated`: последняя дата изменений записи: либо подтверждение адреса электронной почты, либо сохранение отклика при создании;
 
-### [votes_by_days.csv](https://github.com/rockbeenorth/design_research_2019/blob/master/public_data/votes_by_days.csv)
+### Распределение голосов по дням, [votes_by_days.csv](https://github.com/rockbeenorth/design_research_2019/blob/master/public_data/votes_by_days.csv)
 
-- `expert_id`:
-- `gender`:
-- `vote_date`:
-- `spams`:
-- `nays`:
-- `yays`:
+- `expert_id`: уникальный идентификатор эксперта;
+- `gender`: пол эксперта (`male`: мужской, `female`: женский);
+- `vote_date`: дата голосования
+- `spams`: количество откликов отмеченных как «спам»
+- `nays`: количество откликов отмеченных как «нет»
+- `yays`:  количество откликов отмеченных как «да»
 
-### [votes_log.csv](https://github.com/rockbeenorth/design_research_2019/blob/master/public_data/votes_log.csv)
+### Последовательность голосов и веса оценок, [votes_log.csv](https://github.com/rockbeenorth/design_research_2019/blob/master/public_data/votes_log.csv)
 
-- `response_id`:
-- `expert_id`:
-- `expert_gender`:
-- `vote_weight`:
-- `time_voted`:
+- `response_id`: уникальный идентификатор отклика;
+- `expert_id`: уникальный идентификатор эксперта;
+- `gender`: пол эксперта (`male`: мужской, `female`: женский);
+- `vote_weight`: вес голоса. `-10`: «спам», `-1`: «нет», `1`: «да»
+- `time_voted`: время оценки отклика
