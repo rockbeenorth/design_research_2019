@@ -67,85 +67,103 @@
 
 Это условие поддержано алгоритмом оценки: каждый отклик получал минимум две оценки женщинами, две оценки мужчинами, далее — контрольные глоса без учёта пола эксперта: не менее одного но не более трёх. В сумме должно было получаться максимум семь голосов, однако в реальности иногда получалось восемь, если эксперты видели отклик примерно в одно время.
 
+---
+
 [Юрий Ветров](https://www.facebook.com/jvetrau)
-Mail.ru Group
-Ex-директор по дизайну
-Москва
+
+- Mail.ru Group
+- Ex-директор по дизайну
+- Москва
 
 [Михаил Жашков](https://www.facebook.com/zhashkov)
-TRA Robotics
-Директор по дизайну
-Лондон, Москва, Санкт-Петербург
+
+- TRA Robotics
+- Директор по дизайну
+- Лондон, Москва, Санкт-Петербург
 
 [Владимир Зимин](https://www.facebook.com/darkspi)
-Почта России
-Дизайн-директор
-Москва
+
+- Почта России
+- Дизайн-директор
+- Москва
 
 [Юлия Урасова](https://www.facebook.com/urasovajuliya)
-Qiwi Russia
-Руководитель дизайнеров
-Москва
+
+- Qiwi Russia
+- Руководитель дизайнеров
+- Москва
 
 [Костя Горский](https://www.facebook.com/gorskiy)
-Intercom
-Дизайн-менеджер
-Дублин
+
+- Intercom
+- Дизайн-менеджер
+- Дублин
 
 [Алина Ермакова](https://www.facebook.com/profile.php?id=1467496739)
-Сбербанк
-UX Research Team Lead Сбербанк-Онлайн
-Москва
+
+- Сбербанк
+- UX Research Team Lead Сбербанк-Онлайн
+- Москва
 
 [Николай Березовский](https://www.facebook.com/uNikolas)
-Revolut
-Senior Product Owner at Revolut for Business
-Лондон
+
+- Revolut
+- Senior Product Owner at Revolut for Business
+- Лондон
 
 [Саша Ермоленко](https://www.facebook.com/sasha.ermolenko)
-Mail.ru Group
-Head of Service Design (Mail&Portal)
-Москва
+
+- Mail.ru Group
+- Head of Service Design (Mail&Portal)
+- Москва
 
 [Денис Кортунов](https://www.facebook.com/kortunov)
-Acronis
-Senior Director of Design
-Сингапур
+
+- Acronis
+- Senior Director of Design
+- Сингапур
 
 [Сергей Кондауров](https://www.facebook.com/KondaurovSergey)
-Яндекс
-Арт-директор b2c сервисов
-Москва
+
+- Яндекс
+- Арт-директор b2c сервисов
+- Москва
 
 [Ксения Стернина](https://www.facebook.com/ksenia.sternina)
-Mail.ru Group
-Ex-Head of UX Research
-Москва, Лондон
+
+- Mail.ru Group
+- Ex-Head of UX Research
+- Москва, Лондон
 
 [Александр Ковальский](https://www.facebook.com/korumart)
-CreativePeople
-Дизайн-директор
-Москва
+
+- CreativePeople
+- Дизайн-директор
+- Москва
 
 [Евгения Малкова](https://www.facebook.com/jane.malkova)
-Shelly
-Ex-Design Lead
-Москва
+
+- Shelly
+- Ex-Design Lead
+- Москва
 
 [Алексей Чупин](https://www.facebook.com/LexaCh)
-МТС
-Дизайн-директор
-Москва
+
+- МТС
+- Дизайн-директор
+vМосква
 
 [Влад Зелинский](https://www.facebook.com/vladzely)
-Miro (ex Realtime Board)
-Product Design Manager
-Пермь, Сан-Франциско, Амстердам
+
+- Miro (ex Realtime Board)
+- Product Design Manager
+- Пермь, Сан-Франциско, Амстердам
 
 [Анастасия Попова](https://www.facebook.com/popovanasta)
-Альфа-Банк
-Руководитель направления продуктового дизайна
-Москва
+
+- Альфа-Банк
+- Руководитель направления продуктового дизайна
+- Москва
 
 Компании и должности меняются. Всё перечисленное выше указано со слов экспертов и актуально на август 2019 года.
 
