@@ -74,6 +74,7 @@
 - Mail.ru Group
 - Ex-директор по дизайну
 - Москва
+- [Интервью](https://github.com/rockbeenorth/design_research_2019/blob/master/interviews.md#%D1%8E%D1%80%D0%B0-%D0%B2%D0%B5%D1%82%D1%80%D0%BE%D0%B2-%D0%B4%D0%BE-%D0%BD%D0%B5%D0%B4%D0%B0%D0%B2%D0%BD%D0%B5%D0%B3%D0%BE-%D0%B2%D1%80%D0%B5%D0%BC%D0%B5%D0%BD%D0%B8--%D0%B4%D0%B8%D0%B7%D0%B0%D0%B9%D0%BD-%D0%B4%D0%B8%D1%80%D0%B5%D0%BA%D1%82%D0%BE%D1%80-%D0%BC%D1%8D%D0%B9%D0%BB%D1%80%D1%83-%D0%BC%D0%BE%D1%81%D0%BA%D0%B2%D0%B0)
 
 [Михаил Жашков](https://www.facebook.com/zhashkov)
 
@@ -86,42 +87,49 @@
 - Почта России
 - Дизайн-директор
 - Москва
+- [Интервью](https://github.com/rockbeenorth/design_research_2019/blob/master/interviews.md#%D0%B2%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80-%D0%B7%D0%B8%D0%BC%D0%B8%D0%BD-%D0%B4%D0%B8%D0%B7%D0%B0%D0%B9%D0%BD-%D0%B4%D0%B8%D1%80%D0%B5%D0%BA%D1%82%D0%BE%D1%80-%D0%B2-%D0%BF%D0%BE%D1%87%D1%82%D0%B5-%D1%80%D0%BE%D1%81%D1%81%D0%B8%D0%B8-%D0%BC%D0%BE%D1%81%D0%BA%D0%B2%D0%B0)
 
 [Юлия Урасова](https://www.facebook.com/urasovajuliya)
 
 - Qiwi Russia
 - Руководитель дизайнеров
 - Москва
+- [Интервью](https://github.com/rockbeenorth/design_research_2019/blob/master/interviews.md#%D1%8E%D0%BB%D0%B8%D1%8F-%D1%83%D1%80%D0%B0%D1%81%D0%BE%D0%B2%D0%B0-%D1%80%D1%83%D0%BA%D0%BE%D0%B2%D0%BE%D0%B4%D0%B8%D1%82%D0%B5%D0%BB%D1%8C-%D0%B4%D0%B8%D0%B7%D0%B0%D0%B9%D0%BD%D0%B5%D1%80%D0%BE%D0%B2-%D0%B2-qiwi-%D0%BC%D0%BE%D1%81%D0%BA%D0%B2%D0%B0)
 
 [Костя Горский](https://www.facebook.com/gorskiy)
 
 - Intercom
 - Дизайн-менеджер
 - Дублин
+- [Интервью](https://github.com/rockbeenorth/design_research_2019/blob/master/interviews.md#%D0%BA%D0%BE%D1%81%D1%82%D1%8F-%D0%B3%D0%BE%D1%80%D1%81%D0%BA%D0%B8%D0%B9-intercom-%D0%B4%D1%83%D0%B1%D0%BB%D0%B8%D0%BD-%D0%B8%D1%80%D0%BB%D0%B0%D0%BD%D0%B4%D0%B8%D1%8F)
 
 [Алина Ермакова](https://www.facebook.com/profile.php?id=1467496739)
 
 - Сбербанк
 - UX Research Team Lead Сбербанк-Онлайн
 - Москва
+- [Интервью](https://github.com/rockbeenorth/design_research_2019/blob/master/interviews.md#%D0%B0%D0%BB%D0%B8%D0%BD%D0%B0-%D0%B5%D1%80%D0%BC%D0%B0%D0%BA%D0%BE%D0%B2%D0%B0-ux-research-team-lead-%D1%81%D0%B1%D0%B5%D1%80%D0%B1%D0%B0%D0%BD%D0%BA-%D0%BE%D0%BD%D0%BB%D0%B0%D0%B9%D0%BD-%D0%BC%D0%BE%D1%81%D0%BA%D0%B2%D0%B0)
 
 [Николай Березовский](https://www.facebook.com/uNikolas)
 
 - Revolut
 - Senior Product Owner at Revolut for Business
 - Лондон
+- [Интервью](https://github.com/rockbeenorth/design_research_2019/blob/master/interviews.md#%D0%BD%D0%B8%D0%BA%D0%BE%D0%BB%D0%B0%D0%B9-%D0%B1%D0%B5%D1%80%D0%B5%D0%B7%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9-senior-product-owner-at-revolut-for-business-%D0%BB%D0%BE%D0%BD%D0%B4%D0%BE%D0%BD)
 
 [Саша Ермоленко](https://www.facebook.com/sasha.ermolenko)
 
 - Mail.ru Group
 - Head of Service Design (Mail&Portal)
 - Москва
+- [Интервью](https://github.com/rockbeenorth/design_research_2019/blob/master/interviews.md#%D1%81%D0%B0%D1%88%D0%B0-%D0%B5%D1%80%D0%BC%D0%BE%D0%BB%D0%B5%D0%BD%D0%BA%D0%BE-head-of-service-design-mailportal-mailru-group-%D0%BC%D0%BE%D1%81%D0%BA%D0%B2%D0%B0)
 
 [Денис Кортунов](https://www.facebook.com/kortunov)
 
 - Acronis
 - Senior Director of Design
 - Сингапур
+- [Интервью](https://github.com/rockbeenorth/design_research_2019/blob/master/interviews.md#%D0%B4%D0%B5%D0%BD%D0%B8%D1%81-%D0%BA%D0%BE%D1%80%D1%82%D1%83%D0%BD%D0%BE%D0%B2-senior-director-of-design-%D0%B2-%D0%BA%D0%BE%D0%BC%D0%BF%D0%B0%D0%BD%D0%B8%D0%B8-acronis-%D1%81%D0%B8%D0%BD%D0%B3%D0%B0%D0%BF%D1%83%D1%80)
 
 [Сергей Кондауров](https://www.facebook.com/KondaurovSergey)
 
@@ -151,19 +159,22 @@
 
 - МТС
 - Дизайн-директор
-vМосква
+- Москва
+- [Интервью](https://github.com/rockbeenorth/design_research_2019/blob/master/interviews.md#%D0%B0%D0%BB%D0%B5%D0%BA%D1%81%D0%B5%D0%B9-%D1%87%D1%83%D0%BF%D0%B8%D0%BD-%D0%B4%D0%B8%D0%B7%D0%B0%D0%B9%D0%BD-%D0%B4%D0%B8%D1%80%D0%B5%D0%BA%D1%82%D0%BE%D1%80-%D0%B2-%D0%BC%D1%82%D1%81-%D0%BC%D0%BE%D1%81%D0%BA%D0%B2%D0%B0)
 
 [Влад Зелинский](https://www.facebook.com/vladzely)
 
 - Miro (ex Realtime Board)
 - Product Design Manager
 - Пермь, Сан-Франциско, Амстердам
+- [Интервью](https://github.com/rockbeenorth/design_research_2019/blob/master/interviews.md#%D0%B2%D0%BB%D0%B0%D0%B4-%D0%B7%D0%B5%D0%BB%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B9-product-design-manager-miro-ex-realtime-board--%D0%BF%D0%B5%D1%80%D0%BC%D1%8C-%D0%BC%D0%BE%D1%81%D0%BA%D0%B2%D0%B0-%D0%B0%D0%BC%D1%81%D1%82%D0%B5%D1%80%D0%B4%D0%B0%D0%BC-%D1%81%D0%B0%D0%BD-%D1%84%D1%80%D0%B0%D0%BD%D1%86%D0%B8%D1%81%D0%BA%D0%BE)
 
 [Анастасия Попова](https://www.facebook.com/popovanasta)
 
 - Альфа-Банк
 - Руководитель направления продуктового дизайна
 - Москва
+- [Интервью](https://github.com/rockbeenorth/design_research_2019/blob/master/interviews.md#%D0%B0%D0%BD%D0%B0%D1%81%D1%82%D0%B0%D1%81%D0%B8%D1%8F-%D0%BF%D0%BE%D0%BF%D0%BE%D0%B2%D0%B0-%D1%80%D1%83%D0%BA%D0%BE%D0%B2%D0%BE%D0%B4%D0%B8%D1%82%D0%B5%D0%BB%D1%8C-%D0%BD%D0%B0%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F-%D0%BF%D1%80%D0%BE%D0%B4%D1%83%D0%BA%D1%82%D0%BE%D0%B2%D0%BE%D0%B3%D0%BE-%D0%B4%D0%B8%D0%B7%D0%B0%D0%B9%D0%BD%D0%B0-%D0%B2-%D0%B0%D0%BB%D1%8C%D1%84%D0%B0-%D0%B1%D0%B0%D0%BD%D0%BA%D0%B5-%D0%BC%D0%BE%D1%81%D0%BA%D0%B2%D0%B0)
 
 Компании и должности меняются. Всё перечисленное выше указано со слов экспертов и актуально на август 2019 года.
 
