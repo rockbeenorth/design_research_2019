@@ -332,13 +332,13 @@
 
 При этом важно понимать, что у всех экспертов свой подход к найму: кто-то пропустит больше людей на первом этапе чтобы увеличить поток (например, найм открыт сразу в несколько команд), кто-то напротив будет отказывать большинству потому что ищет специфичного кандидата. Поэтому точность — скорее показатель подхода к найму, чем определение навыка эксперта.
 
-###   Gladiolus
+##   Gladiolus
 
 Всего голосов:  `85`
 
 ![Expert votes](https://raw.githubusercontent.com/rockbeenorth/design_research_2019/master/public_data/x_votes/Gladiolus.svg?sanitize=true)
 
-#### Точность
+### Точность
 
 - Экстра: `2 (2.4%)`
 - Точно да: `4 (4.7%)`
@@ -348,6 +348,263 @@
 - Спам: `0 (0.0%)`
 
 ![Expert precision](https://raw.githubusercontent.com/rockbeenorth/design_research_2019/master/public_data/x_votes/Gladiolus_precision.svg?sanitize=true)
+
+##  Violet
+
+Всего голосов: `36`
+
+![Expert votes](https://raw.githubusercontent.com/rockbeenorth/design_research_2019/master/public_data/x_votes/Violet.svg?sanitize=true)
+
+### Точность
+
+- Экстра: `2 (5.6%)`
+- Точно да: `6 (16.7%)`
+- Скорее да: `5 (13.9%)`
+- Скорее нет: `2 (5.6%)`
+- Отказать: `1 (2.8%)`
+- Спам: `0 (0.0%)`
+
+![Expert precision](https://raw.githubusercontent.com/rockbeenorth/design_research_2019/master/public_data/x_votes/Violet_precision.svg?sanitize=true)
+
+##  Iris
+
+Всего голосов: `220`
+
+![Expert votes](https://raw.githubusercontent.com/rockbeenorth/design_research_2019/master/public_data/x_votes/Iris.svg?sanitize=true)
+
+### Точность
+
+- Экстра: `5 (2.3%)`
+- Точно да: `10 (4.5%)`
+- Скорее да: `25 (11.4%)`
+- Скорее нет: `10 (4.5%)`
+- Отказать: `2 (0.9%)`
+- Спам: `0 (0.0%)`
+
+![Expert precision](https://raw.githubusercontent.com/rockbeenorth/design_research_2019/master/public_data/x_votes/Iris_precision.svg?sanitize=true)
+
+##  Crocus
+
+Всего голосов: `243`
+
+![Expert votes](https://raw.githubusercontent.com/rockbeenorth/design_research_2019/master/public_data/x_votes/Crocus.svg?sanitize=true)
+
+### Точность
+
+- Экстра: `8 (3.3%)`
+- Точно да: `20 (8.2%)`
+- Скорее да: `60 (24.7%)`
+- Скорее нет: `37 (15.2%)`
+- Отказать: `24 (9.9%)`
+- Спам: `0 (0.0%)`
+
+![Expert precision](https://raw.githubusercontent.com/rockbeenorth/design_research_2019/master/public_data/x_votes/Crocus_precision.svg?sanitize=true)
+
+
+##  Tulip
+
+Всего голосов: `223`
+
+![Expert votes](https://raw.githubusercontent.com/rockbeenorth/design_research_2019/master/public_data/x_votes/Tulip.svg?sanitize=true)
+
+### Точность
+
+- Экстра: `7 (3.1%)`
+- Точно да: `16 (7.2%)`
+- Скорее да: `34 (15.2%)`
+- Скорее нет: `9 (4.0%)`
+- Отказать: `3 (1.3%)`
+- Спам: `0 (0.0%)`
+
+![Expert precision](https://raw.githubusercontent.com/rockbeenorth/design_research_2019/master/public_data/x_votes/Tulip_precision.svg?sanitize=true)
+
+##  Poppy
+
+Всего голосов: `45`
+
+![Expert votes](https://raw.githubusercontent.com/rockbeenorth/design_research_2019/master/public_data/x_votes/Poppy.svg?sanitize=true)
+
+### Точность
+
+- Экстра: `1 (2.2%)`
+- Точно да: `2 (4.4%)`
+- Скорее да: `2 (4.4%)`
+- Скорее нет: `7 (15.6%)`
+- Отказать: `0 (0.0%)`
+- Спам: `0 (0.0%)`
+
+![Expert precision](https://raw.githubusercontent.com/rockbeenorth/design_research_2019/master/public_data/x_votes/Poppy_precision.svg?sanitize=true)
+
+##  Cactus
+
+Всего голосов: `27`
+
+![Expert votes](https://raw.githubusercontent.com/rockbeenorth/design_research_2019/master/public_data/x_votes/Cactus.svg?sanitize=true)
+
+### Точность
+
+- Экстра: `1 (3.7%)`
+- Точно да: `0 (0.0%)`
+- Скорее да: `1 (3.7%)`
+- Скорее нет: `0 (0.0%)`
+- Отказать: `0 (0.0%)`
+- Спам: `0 (0.0%)`
+
+![Expert precision](https://raw.githubusercontent.com/rockbeenorth/design_research_2019/master/public_data/x_votes/Cactus_precision.svg?sanitize=true)
+
+##  Mint
+
+Всего голосов: `216`
+
+![Expert votes](https://raw.githubusercontent.com/rockbeenorth/design_research_2019/master/public_data/x_votes/Mint.svg?sanitize=true)
+
+### Точность
+
+- Экстра: `8 (3.7%)`
+- Точно да: `17 (7.9%)`
+- Скорее да: `40 (18.5%)`
+- Скорее нет: `16 (7.4%)`
+- Отказать: `14 (6.5%)`
+- Спам: `0 (0.0%)`
+
+![Expert precision](https://raw.githubusercontent.com/rockbeenorth/design_research_2019/master/public_data/x_votes/Mint_precision.svg?sanitize=true)
+
+##  Daisy
+
+Всего голосов: `229`
+
+![Expert votes](https://raw.githubusercontent.com/rockbeenorth/design_research_2019/master/public_data/x_votes/Daisy.svg?sanitize=true)
+
+### Точность
+
+- Экстра: `6 (2.6%)`
+- Точно да: `18 (7.9%)`
+- Скорее да: `60 (26.2%)`
+- Скорее нет: `42 (18.3%)`
+- Отказать: `37 (16.2%)`
+- Спам: `1 (0.4%)`
+
+![Expert precision](https://raw.githubusercontent.com/rockbeenorth/design_research_2019/master/public_data/x_votes/Daisy_precision.svg?sanitize=true)
+
+##  Fern
+
+Всего голосов: `29`
+
+![Expert votes](https://raw.githubusercontent.com/rockbeenorth/design_research_2019/master/public_data/x_votes/Fern.svg?sanitize=true)
+
+### Точность
+
+- Экстра: `1 (3.4%)`
+- Точно да: `1 (3.4%)`
+- Скорее да: `4 (13.8%)`
+- Скорее нет: `1 (3.4%)`
+- Отказать: `0 (0.0%)`
+- Спам: `0 (0.0%)`
+
+![Expert precision](https://raw.githubusercontent.com/rockbeenorth/design_research_2019/master/public_data/x_votes/Fern_precision.svg?sanitize=true)
+
+##  Rose
+
+Всего голосов: `46`
+
+![Expert votes](https://raw.githubusercontent.com/rockbeenorth/design_research_2019/master/public_data/x_votes/Rose.svg?sanitize=true)
+
+### Точность
+
+- Экстра: `0 (0.0%)`
+- Точно да: `2 (4.3%)`
+- Скорее да: `9 (19.6%)`
+- Скорее нет: `1 (2.2%)`
+- Отказать: `4 (8.7%)`
+- Спам: `0 (0.0%)`
+
+![Expert precision](https://raw.githubusercontent.com/rockbeenorth/design_research_2019/master/public_data/x_votes/Rose_precision.svg?sanitize=true)
+
+##  Peony
+
+Всего голосов: `40`
+
+![Expert votes](https://raw.githubusercontent.com/rockbeenorth/design_research_2019/master/public_data/x_votes/Peony.svg?sanitize=true)
+
+### Точность
+
+- Экстра: `1 (2.5%)`
+- Точно да: `2 (5.0%)`
+- Скорее да: `5 (12.5%)`
+- Скорее нет: `6 (15.0%)`
+- Отказать: `4 (10.0%)`
+- Спам: `0 (0.0%)`
+
+![Expert precision](https://raw.githubusercontent.com/rockbeenorth/design_research_2019/master/public_data/x_votes/Peony_precision.svg?sanitize=true)
+
+##  Chamomile
+
+Всего голосов: `45`
+
+![Expert votes](https://raw.githubusercontent.com/rockbeenorth/design_research_2019/master/public_data/x_votes/Chamomile.svg?sanitize=true)
+
+### Точность
+
+- Экстра: `6 (13.3%)`
+- Точно да: `4 (8.9%)`
+- Скорее да: `6 (13.3%)`
+- Скорее нет: `1 (2.2%)`
+- Отказать: `3 (6.7%)`
+- Спам: `0 (0.0%)`
+
+![Expert precision](https://raw.githubusercontent.com/rockbeenorth/design_research_2019/master/public_data/x_votes/Chamomile_precision.svg?sanitize=true)
+
+##  Hyacinth
+
+Всего голосов: `38`
+
+![Expert votes](https://raw.githubusercontent.com/rockbeenorth/design_research_2019/master/public_data/x_votes/Hyacinth.svg?sanitize=true)
+
+### Точность
+
+- Экстра: `1 (2.6%)`
+- Точно да: `3 (7.9%)`
+- Скорее да: `2 (5.3%)`
+- Скорее нет: `2 (5.3%)`
+- Отказать: `1 (2.6%)`
+- Спам: `0 (0.0%)`
+
+![Expert precision](https://raw.githubusercontent.com/rockbeenorth/design_research_2019/master/public_data/x_votes/Hyacinth_precision.svg?sanitize=true)
+
+##  Buttercup
+
+Всего голосов: `115`
+
+![Expert votes](https://raw.githubusercontent.com/rockbeenorth/design_research_2019/master/public_data/x_votes/Buttercup.svg?sanitize=true)
+
+### Точность
+
+- Экстра: `2 (1.7%)`
+- Точно да: `6 (5.2%)`
+- Скорее да: `13 (11.3%)`
+- Скорее нет: `7 (6.1%)`
+- Отказать: `0 (0.0%)`
+- Спам: `0 (0.0%)`
+
+![Expert precision](https://raw.githubusercontent.com/rockbeenorth/design_research_2019/master/public_data/x_votes/Buttercup_precision.svg?sanitize=true)
+
+
+##  Petunia
+
+Всего голосов: `8`
+
+![Expert votes](https://raw.githubusercontent.com/rockbeenorth/design_research_2019/master/public_data/x_votes/Petunia.svg?sanitize=true)
+
+### Точность
+
+- Экстра: `1 (12.5%)`
+- Точно да: `0 (0.0%)`
+- Скорее да: `1 (12.5%)`
+- Скорее нет: `1 (12.5%)`
+- Отказать: `1 (12.5%)`
+- Спам: `0 (0.0%)`
+
+![Expert precision](https://raw.githubusercontent.com/rockbeenorth/design_research_2019/master/public_data/x_votes/Petunia_precision.svg?sanitize=true)
 
 ***
 
