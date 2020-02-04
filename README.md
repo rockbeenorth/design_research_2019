@@ -307,11 +307,29 @@
 
 Чтобы исключить влияние личного бренда на восприятие оценок, мы заменили реальные имена на названия цветов.
 
-Эксперт - Количество оценок - Точность
+##  Gladiolus
 
-График с распределением оценок «да» по группам
+![Expert votes](https://raw.githubusercontent.com/rockbeenorth/design_research_2019/master/public_data/x_votes/Gladiolus.svg?sanitize=true)
 
-График расстановки голосов
+Всего голосов:  `85`
+
+### Точность
+
+Экстра: `2 (2.4%)`
+
+Точно да: `4 (4.7%)`
+
+Скорее да: `5 (5.9%)`
+
+Скорее нет: `2 (2.4%)`
+
+Отказать: `1 (1.2%)`
+
+Спам: `0 (0.0%)`
+
+![Expert precision](https://raw.githubusercontent.com/rockbeenorth/design_research_2019/master/public_data/x_votes/Gladiolus_precision.svg?sanitize=true)
+
+***
 
 ### Выводы по оценкам экспертов
 
