@@ -204,6 +204,8 @@
 - Искали работу: 228 человек;
 - Участвовали из любопытства: 15 человек.
 
+![График распределения по группам](https://raw.githubusercontent.com/rockbeenorth/design_research_2019/master/images/groups%20distribution.svg?sanitize=true)
+
 ### Группы
 
 1. Экстра: `8 (3.3%)`. *Все* эксперты пропустили бы отклик на следующий этап.
